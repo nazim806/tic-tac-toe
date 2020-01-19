@@ -72,9 +72,9 @@ table tr td:last-child {
 }
 
 .selectSym button:first-of-type {
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 .selectSym button:last-of-type {
-  margin-left: 20px;
+  margin-left: 10px;
 }
