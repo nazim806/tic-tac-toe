@@ -5,6 +5,8 @@ Tic-tac-toe or Xs and Os is a paper-and-pencil game for two players, X and O, wh
 
 who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
+**Live Link**:  https://nazim806.github.io/tic-tac-toe/ 
+
 **Minimax and Alpha Beta Pruning:**
 
 "Minimax is a kind of backtracking algorithm that is used in decision making and game theory to find the optimal move for a player, assuming that your opponent also plays optimally. It is widely used in two player turn-based games such as Tic-Tac-Toe
